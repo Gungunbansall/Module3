@@ -50,7 +50,7 @@ bash
     }
     }
 
-To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.0" (or another compatible version), and then click on the "Compile Assesment.sol" button.
+To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.0" (or another compatible version), and then click on the "ERC20.sol" button.
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions", also need to see the environment is connected to metamask, tab in the left-hand sidebar. Ensure that in deploy need to give someamountof token as an example.Then 
 Click on the "Deploy" button.
